@@ -1,0 +1,5 @@
+Parameter,Default value
+Heuristics,0.05
+Cuts,-1
+MIPFocus,0
+AggFill,-1
