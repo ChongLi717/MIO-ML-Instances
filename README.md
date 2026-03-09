@@ -1,6 +1,6 @@
-# MPT-Instances
+# MIO-ML-Instances
 
-**Two Groups of Instances for Accelerating Real-Time Train Timetable Rescheduling via Machine Learning**
+**Two Groups of Instances for Real-Time Railway Train Rescheduling by Combining Mixed-Integer Optimization with Machine Learning**
 
 This repository provides instance datasets designed for training and evaluating machine learning models for **real-time train timetable rescheduling**. The dataset supports research on data-driven parameter tuning and optimization methods for disruption management in railway operations.
 
@@ -9,7 +9,7 @@ This repository provides instance datasets designed for training and evaluating 
 ## Repository Structure
 
 ```
-MPT-Instances/
+MIO-ML-Instances/
 │
 ├── Param_Default.csv        # Default solver parameter settings
 ├── Param_Range.csv          # Feasible ranges of solver parameters
